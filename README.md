@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hey, It's Deepak. 👋
-
+<!--
 I'm a Final Year undergrad at Aryabhatta Knowledge University. I have the knowledge of back end development with Django, Front-End development. Python, C, C++. I have done some great work with Machine Learning, Deep Learning Projects and Deployed it on Cloud Server. Currently, I'm working with Deep Learning project "Summarization of Scientific Documents" and improving Data Structure and Algorithmic Skill.Currently, I'm looking forward to find a career as Software Development Engineer. 
+-->
