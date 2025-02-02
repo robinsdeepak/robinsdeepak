@@ -63,10 +63,10 @@ I am a passionate Software Engineer with over 4 years of experience in building 
 
 ## 📫 Let's Connect!
 📩 Email: robinsdeepak@gmail.com  
+🚀 Portfolio: [Link](https://robinsdeepak.in)  
 💼 LinkedIn: [@robinsdeepak](https://www.linkedin.com/in/robinsdeepak)  
 💻 GitHub: [@robinsdeepak](https://github.com/robinsdeepak)  
-🚀 Portfolio: [Link](https://robinsdeepak.in)  
-🏆 LeetCode: [robinsdeepak](https://leetcode.com/robinsdeepak)  
+🏆 LeetCode: [@robinsdeepak](https://leetcode.com/robinsdeepak)  
 
 Feel free to reach out for collaborations, open-source projects, or just to say hi! 😊
 
