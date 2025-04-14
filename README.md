@@ -43,9 +43,10 @@ I am a passionate Software Engineer with over 4 years of experience in building 
 
 ### 💼 **Goldman Sachs**  
 🗓 Aug 2023 – Present | Software Engineer
-
+<!---
 ### 💼 **Genpact**  
 🗓 Aug 2023 – Present | Lead Consultant  
+--->
 
 ### 💼 **Headrun Technologies**  
 🗓 Oct 2022 – Jul 2023 | Team Lead  
