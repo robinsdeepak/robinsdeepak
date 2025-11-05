@@ -11,7 +11,7 @@ I am a passionate Software Engineer with over 4 years of experience in building 
 </p>
 
 ## 🔥 About Me
-💻 Currently working as a Software Engineer at **Goldman Sachs**  
+💻 Currently working as a Software Engineer 3 at **eBay**  
 🏆 Led multiple teams and delivered high-quality backend solutions  
 🚀 Developed microservices, optimized queries, and built scalable architectures  
 💡 Passionate about system design, clean code, and solving complex challenges  
