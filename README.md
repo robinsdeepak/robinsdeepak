@@ -41,8 +41,12 @@ I am a passionate Software Engineer with over 4 years of experience in building 
 
 ## 🏆 Professional Experience  
 
+### 💼 **eBay**  
+🗓 Sept 2025 – Present | Software Engineer 3
+
 ### 💼 **Goldman Sachs**  
-🗓 Aug 2023 – Present | Software Engineer
+🗓 Aug 2023 – Aug 2025 | Senior Software Engineer
+
 <!---
 ### 💼 **Genpact**  
 🗓 Aug 2023 – Present | Lead Consultant  
