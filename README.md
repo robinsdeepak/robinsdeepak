@@ -1,6 +1,6 @@
 # Hi there, I'm Deepak Kumar! 👋
 
-## 🚀 Backend Engineer & LLM Systems | ~5 Years at Scale
+## 🚀 Backend Engineer & LLM Systems
 
 ![Profile Views](https://komarev.com/ghpvc/?username=robinsdeepak&color=blue)
 
